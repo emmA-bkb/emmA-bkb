@@ -4,15 +4,11 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,git,github" />
 </p>
 
-<p align="center">
-  <a href="SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-</p>
-
 ---
 
 ###  Sobre mim
--  Estudando programação  
--  Aprendendo novas tecnologias  
+-  Estudante de Ciência da Computação
+-  Foco em Backend
  
 
 ---
