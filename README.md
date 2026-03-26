@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 What's up?</h1>
 
-<!--
-**emmA-bkb/emmA-bkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,git,github" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+- 💻 Estudando programação  
+- 🌱 Aprendendo novas tecnologias  
+- 🎯 Objetivo: virar dev  
+
+---
+
+### 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emmA-bkb&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=emmA-bkb&theme=radical" />
+</p>
+
+---
+
+### 🐍 Snake (igual o da imagem)
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
