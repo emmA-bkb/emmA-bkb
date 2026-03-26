@@ -8,7 +8,7 @@
 
 ###  Sobre mim
 -  Estudante de Ciência da Computação
--  Foco em Backend
+
  
 
 ---
