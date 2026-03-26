@@ -10,14 +10,14 @@
 
 ---
 
-### 🚀 Sobre mim
-- 💻 Estudando programação  
-- 🌱 Aprendendo novas tecnologias  
-- 🎯 Objetivo: virar dev  
+###  Sobre mim
+-  Estudando programação  
+-  Aprendendo novas tecnologias  
+ 
 
 ---
 
-### 📊 Estatísticas
+###  Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emmA-bkb&show_icons=true&theme=radical" />
 </p>
@@ -28,5 +28,5 @@
 
 ---
 
-### 🐍 Snake (igual o da imagem)
+### 🐍 Snake 
 ![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
