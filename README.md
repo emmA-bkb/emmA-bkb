@@ -6,14 +6,16 @@
 
 ---
 
-###  Sobre mim
--  Estudante de Ciência da Computação
+###  About me
+-  Computer Science student
+
+
 
  
 
 ---
 
-###  Estatísticas
+###  Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emmA-bkb&show_icons=true&theme=radical" />
 </p>
